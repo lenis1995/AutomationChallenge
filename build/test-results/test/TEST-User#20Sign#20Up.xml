@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="User Sign Up" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-02-01T04:04:48" hostname="T365-ALEJANDROL" time="59.714">
+<testsuite name="User Sign Up" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-02-01T04:10:32" hostname="T365-ALEJANDROL" time="58.75">
   <properties/>
-  <testcase name="UTest Sign Up" classname="User Sign Up" time="59.714"/>
+  <testcase name="UTest Sign Up" classname="User Sign Up" time="58.75"/>
   <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[Jan 31, 2021 11:04:48 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+  <system-err><![CDATA[Jan 31, 2021 11:10:32 PM org.openqa.selenium.remote.DesiredCapabilities chrome
 INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
 [Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Instantiating driver
 [Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, browserName: chrome, goog:chromeOptions: {args: [], extensions: []}, loggingPrefs: org.openqa.selenium.logging..., platform: ANY, version: }
-Starting ChromeDriver 87.0.4280.88 (89e2380a3e36c3464b5dd1302349b1382549290d-refs/branch-heads/4280@{#1761}) on port 46796
+Starting ChromeDriver 87.0.4280.88 (89e2380a3e36c3464b5dd1302349b1382549290d-refs/branch-heads/4280@{#1761}) on port 28648
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-[1612152290.953][WARNING]: This version of ChromeDriver has not been tested with Chrome version 88.
-Jan 31, 2021 11:04:53 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+[1612152634.752][WARNING]: This version of ChromeDriver has not been tested with Chrome version 88.
+Jan 31, 2021 11:10:36 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
         __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
