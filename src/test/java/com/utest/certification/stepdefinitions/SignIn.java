@@ -141,5 +141,6 @@ public class SignIn {
     @Then("^I should see the welcome message$")
     public void iShouldSeeTheWelcomeMessage() throws Exception {
         //I couldn't do the final assertion because a image captcha is displayed
+        //I don't know how handle a captcha
     }
 }
