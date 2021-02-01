@@ -1,5 +1,5 @@
 defaultTasks 'clean','test','aggregate'
-group 'AutomationChallenge'
+group 'advantagedemosuite'
 version '1.0-SNAPSHOT'
 
 repositories {
