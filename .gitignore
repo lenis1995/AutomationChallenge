@@ -4,3 +4,4 @@ history/*
 build/reports/*
 build/test-results/*
 .gradle/6.7/*
+.idea/*
