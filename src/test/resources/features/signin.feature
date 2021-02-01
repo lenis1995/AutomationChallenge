@@ -7,7 +7,7 @@ Feature: User Sign Up
 
   Scenario: UTest Sign Up
     Given that I get to UTest Page
-    And   access to Sign In form
+    And   access to Sign Up form
     When  I complete the first step
     And   I complete the second step
     And   I complete the third step

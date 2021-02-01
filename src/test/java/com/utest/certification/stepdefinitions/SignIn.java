@@ -51,8 +51,8 @@ public class SignIn {
         theActorInTheSpotlight().attemptsTo(Open.browserOn(UTestLanding()));
     }
 
-    @And("^access to Sign In form$")
-    public void accessToSignInForm() throws Exception {
+    @And("^access to Sign Up form$")
+    public void accessToSignUpForm() throws Exception {
       theActorInTheSpotlight().attemptsTo(WaitUntil.the(JOIN_TODAY_BUTTON,isClickable()));
       highlightElement(hisBrowser,JOIN_TODAY_BUTTON.resolveFor(theActorInTheSpotlight()));
       theActorInTheSpotlight().attemptsTo(Click.on(JOIN_TODAY_BUTTON));
