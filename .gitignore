@@ -1,3 +1,6 @@
 target/*
 Reto Automatizacion/*
 history/*
+build/reports/*
+build/test-results/*
+.gradle/6.7/*
