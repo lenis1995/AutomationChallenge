@@ -1,0 +1,24 @@
+com/utest/certification/userinterfaces/signup/SecondStepElements.java
+ com.utest.certification.userinterfaces.signup.SecondStepElements
+com/utest/certification/tasks/SetDay.java
+ com.utest.certification.tasks.SetDay
+com/utest/certification/tasks/SetYear.java
+ com.utest.certification.tasks.SetYear
+com/utest/certification/userinterfaces/homepage/HomePageObjects.java
+ com.utest.certification.userinterfaces.homepage.HomePageObjects
+com/utest/certification/userinterfaces/homepage/UTestLandingPage.java
+ com.utest.certification.userinterfaces.homepage.UTestLandingPage
+com/utest/certification/utils/SelectRandom.java
+ com.utest.certification.utils.SelectRandom
+com/utest/certification/userinterfaces/signup/ThirdStepElements.java
+ com.utest.certification.userinterfaces.signup.ThirdStepElements
+com/utest/certification/userinterfaces/signup/LastStepElements.java
+ com.utest.certification.userinterfaces.signup.LastStepElements
+com/utest/certification/utils/Highlighter.java
+ com.utest.certification.utils.Highlighter
+com/utest/certification/questions/AutoDetectFields.java
+ com.utest.certification.questions.AutoDetectFields
+com/utest/certification/userinterfaces/signup/FirstStepElements.java
+ com.utest.certification.userinterfaces.signup.FirstStepElements
+com/utest/certification/tasks/SetMonth.java
+ com.utest.certification.tasks.SetMonth
